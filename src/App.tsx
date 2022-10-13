@@ -1,24 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import AppCarousel from "./components/AppCarousel";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="relative bg-black text-center h-screen text-white py-10 sm:px-10 sm:py-10">
+      <div className="z-50 relative flex flex-col justify-around h-full">
+        <h1 className="text-3xl">feliz aniversário 💖</h1>
+        <div className="relative z-50 h-[70vh] md:h-[70vh] ">
+          <AppCarousel />
+        </div>
+      </div>
+      <div className="stars z-10"></div>
+      <section className="absolute z-10 shooting-star-space">
+        <span className="shooting-star"></span>
+        <span className="shooting-star"></span>
+        <span className="shooting-star"></span>
+        <span className="shooting-star"></span>
+        <span className="shooting-star"></span>
+        <span className="shooting-star"></span>
+        <span className="shooting-star"></span>
+        <span className="shooting-star"></span>
+      </section>
     </div>
   );
 }
