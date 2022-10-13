@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/camiladezoito/static/css/main.b6cc4c01.css",
-    "main.js": "/camiladezoito/static/js/main.3ffaeee9.js",
+    "main.css": "/camiladezoito/static/css/main.6ec24a4c.css",
+    "main.js": "/camiladezoito/static/js/main.df327c84.js",
     "static/js/787.1b649be2.chunk.js": "/camiladezoito/static/js/787.1b649be2.chunk.js",
     "static/media/so.jpg": "/camiladezoito/static/media/so.2ef981264695d5b701b7.jpg",
     "static/media/deboa.jpg": "/camiladezoito/static/media/deboa.b2953cfaca59149b9a5a.jpg",
@@ -14,12 +14,12 @@
     "static/media/revicons.ttf": "/camiladezoito/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/camiladezoito/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/camiladezoito/index.html",
-    "main.b6cc4c01.css.map": "/camiladezoito/static/css/main.b6cc4c01.css.map",
-    "main.3ffaeee9.js.map": "/camiladezoito/static/js/main.3ffaeee9.js.map",
+    "main.6ec24a4c.css.map": "/camiladezoito/static/css/main.6ec24a4c.css.map",
+    "main.df327c84.js.map": "/camiladezoito/static/js/main.df327c84.js.map",
     "787.1b649be2.chunk.js.map": "/camiladezoito/static/js/787.1b649be2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6cc4c01.css",
-    "static/js/main.3ffaeee9.js"
+    "static/css/main.6ec24a4c.css",
+    "static/js/main.df327c84.js"
   ]
 }
