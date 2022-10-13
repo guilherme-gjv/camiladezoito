@@ -2,34 +2,42 @@ import React from "react";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
+import so from "../assets/images/carousel/so.jpg";
+import guiMaryCamila from "../assets/images/carousel/guiMaryCamila.jpg";
+import curiosamentos from "../assets/images/carousel/curiosamentos.jpg";
+import deboa from "../assets/images/carousel/deboa.jpg";
+import fotinha from "../assets/images/carousel/fotinha.jpg";
+import if922 from "../assets/images/carousel/if922.jpg";
+import mary from "../assets/images/carousel/mary.jpg";
+
 const AppCarousel: React.FC = () => {
   const images = [
     {
-      name: "so.jpg",
+      image: so,
       subtitle: "feliz 18 anos!",
     },
     {
-      name: "guiMaryCamila.jpg",
+      image: guiMaryCamila,
       subtitle: "Camila, Mary & Gui",
     },
     {
-      name: "curiosamentos.jpg",
+      image: curiosamentos,
       subtitle: "já pode ser presa. olha vc se escondendo da polícia",
     },
     {
-      name: "deboa.jpg",
+      image: deboa,
       subtitle: "di boa",
     },
     {
-      name: "fotinha.jpg",
+      image: fotinha,
       subtitle: "fofs",
     },
     {
-      name: "if922.jpg",
+      image: if922,
       subtitle: "<3",
     },
     {
-      name: "mary.jpg",
+      image: mary,
       subtitle: "cami & mary",
     },
   ];
@@ -70,7 +78,7 @@ const AppCarousel: React.FC = () => {
         <div className="text-center h-full flex flex-col justify-center">
           <img
             className="h-[70%] md:h-[60%] xl:h-[40%] object-contain"
-            src={`../../src/assets/images/carousel/${image.name}`}
+            src={image.image}
             alt={image.subtitle}
           />
           <p className="text-xl">{image.subtitle}</p>
