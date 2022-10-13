@@ -1,18 +1,25 @@
 {
   "files": {
     "main.css": "/camiladezoito/static/css/main.b6cc4c01.css",
-    "main.js": "/camiladezoito/static/js/main.e393721e.js",
+    "main.js": "/camiladezoito/static/js/main.3ffaeee9.js",
     "static/js/787.1b649be2.chunk.js": "/camiladezoito/static/js/787.1b649be2.chunk.js",
+    "static/media/so.jpg": "/camiladezoito/static/media/so.2ef981264695d5b701b7.jpg",
+    "static/media/deboa.jpg": "/camiladezoito/static/media/deboa.b2953cfaca59149b9a5a.jpg",
+    "static/media/guiMaryCamila.jpg": "/camiladezoito/static/media/guiMaryCamila.4d32d5d2614c05a9597a.jpg",
+    "static/media/fotinha.jpg": "/camiladezoito/static/media/fotinha.9498062d587fdedb2414.jpg",
+    "static/media/mary.jpg": "/camiladezoito/static/media/mary.e6c0643078ca48c9e7f8.jpg",
+    "static/media/curiosamentos.jpg": "/camiladezoito/static/media/curiosamentos.0a46772831680a12bd61.jpg",
+    "static/media/if922.jpg": "/camiladezoito/static/media/if922.72bb92fff5cf0b69bb2f.jpg",
     "static/media/revicons.eot": "/camiladezoito/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/camiladezoito/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/camiladezoito/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/camiladezoito/index.html",
     "main.b6cc4c01.css.map": "/camiladezoito/static/css/main.b6cc4c01.css.map",
-    "main.e393721e.js.map": "/camiladezoito/static/js/main.e393721e.js.map",
+    "main.3ffaeee9.js.map": "/camiladezoito/static/js/main.3ffaeee9.js.map",
     "787.1b649be2.chunk.js.map": "/camiladezoito/static/js/787.1b649be2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6cc4c01.css",
-    "static/js/main.e393721e.js"
+    "static/js/main.3ffaeee9.js"
   ]
 }
