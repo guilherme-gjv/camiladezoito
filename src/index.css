@@ -1,7 +1,7 @@
-/*@tailwind base;
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
-*/
+
 @keyframes moving-stars {
   0% {
     left: 0px;
