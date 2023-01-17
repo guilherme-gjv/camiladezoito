@@ -2,7 +2,7 @@ import AppCarousel from "./components/AppCarousel";
 
 function App() {
   return (
-    <div className="relative bg-black text-center h-screen text-white py-10 sm:px-10 sm:py-10">
+    <div className="relative overflow-hidden bg-black text-center h-screen text-white py-10 sm:px-10 sm:py-10">
       <div className="z-50 relative flex flex-col justify-around h-full">
         <h1 className="text-3xl">feliz aniversário 💖</h1>
         <div className="relative z-50 h-[70vh] md:h-[70vh] px-2 sm:px-0">
